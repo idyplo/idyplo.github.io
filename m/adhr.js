@@ -1,12 +1,12 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564227145211377"
-     crossorigin="anonymous"></script>
-<!-- Responsive Horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9564227145211377"
-     data-ad-slot="9314922121"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
+&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564227145211377&quot;
+     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+&lt;!-- Responsive Horizontal --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-9564227145211377&quot;
+     data-ad-slot=&quot;9314922121&quot;
+     data-ad-format=&quot;auto&quot;
+     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+&lt;/script&gt;
