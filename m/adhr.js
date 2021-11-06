@@ -1,12 +1,1 @@
-&lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564227145211377&quot;
-     crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-&lt;!-- Responsive Horizontal --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-9564227145211377&quot;
-     data-ad-slot=&quot;9314922121&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
+
