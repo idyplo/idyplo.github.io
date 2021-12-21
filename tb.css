@@ -1,0 +1,33 @@
+  .temp-sub{background-color:#FFFFFF;margin-top:15px;clear:both;display:block;float:left;width:100%;}
+.temp-sub td{margin-left:0!important;}
+.template_free{width:49.5%;float:left;}
+.template_paid{width:49.5%;float:right;}
+.template_name,.template_free,.template_paid{border:1px solid #FDD761;box-sizing:border-box;font-size:13px;margin-bottom:20px;padding:0;position:relative;}
+.template_free tr{margin:0;padding:0;}
+.template_free td{border-bottom:1px solid #FDD761;display:block;float:left;width:100%;}
+.free_template b,.paid_template b{color:#4e5563;float:left;padding:10px;text-align:center;}
+b.free-but,b.paid-but{width:120px;}
+.sublocks{border-left:1px solid #FDD761;color:#7a7f7d;float:right;font-size:14px;padding:10px;text-align:center;min-width:15px;}
+span.sublocks.green{background-color:#2ecc71;color:#fff;width:40px;}
+span.sublocks.red{background-color:#e74c3c;color:#fff;width:40px;}
+.template_paid tr{margin:0;padding:0;}
+.template_paid td{border-bottom:1px solid #FDD761;display:block;float:left;width:100%;}
+td.free-box,td.paid-box{background:#4599BD;border-bottom:none;cursor:pointer;}
+b.free-but{width:80px!important;}
+b.free-but .lprice{margin:10px 10px;font-size:38px!important;}
+.blocks{float:left;padding:20px 0;}
+.detail_template b i,.free_template b span,.paid_template b span{font-size:60px;color:#fff;}
+span.lprice{font-size:30px!important;}
+b.demo-but,b.free-but,b.paid-but{border-right:none;}
+.demo-txt p,.free-txt,.paid-txt{font-size:22px;color:#fff;font-weight:bold;}
+.demo-desc,.free-desc,.paid-desc{color:#fff;font-weight:normal;font-size:16px;}
+.lprice{font-family:Open Sans,Arial,Helvetica,sans-serif;font-style:normal;font-weight:normal;font-size:40px;float:left;margin:18px 0;}
+.template_exe{width:100%;clear:both;float:left;border:1px solid #FDD761;box-sizing:border-box;font-size:13px;margin-bottom:20px;padding:0;position:relative;}
+.template_exe tr{margin:0;padding:0;}
+.template_exe td{border-bottom:1px solid #FDD761;display:block;float:left;width:100%;}
+.template_exe td.paid-box{padding:0;box-sizing:border-box;}
+.template_exe td.paid-box a{width:50%;float:left;}
+.template_exe td.paid-box .dscas4{float:right;width:50%;box-sizing:border-box;background:#0c6e98;color:#fff;padding:10px;margin:14px 0;}
+@media (max-width:768px){.template_free,.template_paid{width:100%!important;float:none!important;clear:both;overflow:hidden;}.template_exe td.paid-box a{width:100%;float:left;}.template_exe td.paid-box .dscas4{width:100%;}}
+@media only screen and (max-width:479px){.template_exe td.paid-box .dscas4{margin-top:0;}}
+.free-h4,.paid-h4,.exe-h4{width:100%;border-bottom:1px solid #FDD761;color:#4599BD;font-size:20px;font-weight:bold;margin:0;padding:10px;text-align:center;background:#FDD761;}
